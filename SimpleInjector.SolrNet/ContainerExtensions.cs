@@ -1,4 +1,9 @@
-﻿using SolrNet;
+﻿
+﻿first hunk
+// test again
+
+third hunk
+using SolrNet;
 using SolrNet.Impl;
 using SolrNet.Impl.DocumentPropertyVisitors;
 using SolrNet.Impl.FacetQuerySerializers;
