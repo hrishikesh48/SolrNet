@@ -1,4 +1,7 @@
-﻿using SolrNet;
+﻿
+// test again
+
+using SolrNet;
 using SolrNet.Impl;
 using SolrNet.Impl.DocumentPropertyVisitors;
 using SolrNet.Impl.FacetQuerySerializers;
